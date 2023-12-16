@@ -8,7 +8,7 @@ import  artist from "../images/artists.png";
 import  album from "../images/albun.png";
 import  favroites from "../images/favorites.png";
 import  podcast from "../images/Podcasts.png";
-import  podcast from "../images/Podcasts.png";
+// import  podcast from "../images/Podcasts.png";
 import { HiMenuAlt3 } from "react-icons/hi";
 
 
