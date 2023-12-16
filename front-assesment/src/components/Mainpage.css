@@ -63,3 +63,15 @@
     background-color: #e0e0e0;
     color: white;
 }
+.right .navBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.right .searchBar{
+    width: 655px;
+}
+.playlist{
+    display: flex;
+}
