@@ -200,7 +200,6 @@ export default function Mainpage() {
                   />
                   <div className="card-body">
                     <p className="card-text">{playlistItem.name}</p>
-                    {/* Add other relevant playlist item data */}
                   </div>
                 </div>
               ))}
