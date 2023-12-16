@@ -1,0 +1,40 @@
+.container {
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.welcomeText{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}  
+.img-thumbnail{
+    background: none;
+    border: none;
+}
+.welcomeText div {
+    margin-left: 10px; 
+}
+  
+  
+.photo {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+  
+
+.form-control{
+    background-color: #1a293c;
+}
+.form-control:hover{
+    background:  #1a293c;
+}
+
+.btn-primary{
+    background-color: #b8cce6;
+    border-radius: 10px;
+    width: 100px;
+}
